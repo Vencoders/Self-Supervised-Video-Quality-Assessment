@@ -22,6 +22,7 @@ YouTube-8M dataset
 
 ## Fine-tuning and Evaluation
 `TEST_*.sh`: train-test in *LIVE/CSIQ/KoNVid-1k/LIVE-VQC* Database. 
+
 `TRAIN_LIVE_TEST_OTHER.sh`: train on LIVE Database, test on other Databases.
 
 # Project information
