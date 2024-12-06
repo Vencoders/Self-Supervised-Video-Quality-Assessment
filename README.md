@@ -24,15 +24,18 @@ YouTube-8M dataset
 `TEST_*.sh`: train-test in *LIVE/CSIQ/KoNVid-1k/LIVE-VQC* Database. 
 `TRAIN_LIVE_TEST_OTHER.sh`: train on LIVE Database, test on other Databases.
 
-# Citation
-If you find this work useful or use our code, please consider citing:
+# Project information
+This project has received funding from the National Natural Science Foundation of China(62002172, 62276139, U2001211).
 
-```
-@InProceedings{Wang20,
-  author       = "Jiangliu Wang and Jianbo Jiao and Yunhui Liu",
-  title        = "Self-Supervised Video Representation Learning by Pace Prediction",
-  booktitle    = "European Conference on Computer Vision",
-  year         = "2020",
-}
-```
+# Author
+
+Li Yu {li.yu@nuist.edu.cn}
+
+Situo Wang {202212490261@nuist.edu.cn}
+
+Yadang Chen {cyd4511632@126.com}
+
+Pan Gao {Pan.Gao@nuaa.edu.cn}
+
+Yubao Sun {sunyb@nuist.edu.cn}
 
