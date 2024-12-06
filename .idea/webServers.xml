@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8120a4a5-e4da-428e-be73-f91cef4d2d9e" name="miaogen_1@10.255.248.35:22" url="http:///">
+        <fileTransfer accessType="SFTP" host="i-1.gpushare.com" port="9786" sshConfigId="5b5b77b9-3302-420a-96f5-05fab8a75431" sshConfig="root@i-1.gpushare.com:9786 password" />
+      </webServer>
+      <webServer id="b26027af-c489-4104-9766-7de66edb00a8" name="wst4090">
+        <fileTransfer accessType="SFTP" host="10.15.185.83" port="22" sshConfigId="3b26e3b2-9e3a-44ac-bb69-12eda6f13eaa" sshConfig="wst@10.15.185.83:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
