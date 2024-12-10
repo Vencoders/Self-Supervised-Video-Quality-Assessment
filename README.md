@@ -1,6 +1,6 @@
 # 基于自监督学习与多尺度时空特征融合的视频质量评估(计算机系统应用，2024)
 
-* [paper link]()
+* [paper link](https://kns.cnki.net/kcms2/article/abstract?v=-xbefZa1CdsQuXWKP2LrnZzN1DeN4vVtFtZHkgiVfk-nDnzV4YDjge7kLTcIjvqQyrAZdqJRv_XEDAubYrPU5CemuejIp6eJ323i75mZxBkFTn81sqBMRZk05vbQvTlAyqTPBJadhs4GiGThTjdbCmb0EQOVyhdzxBhkBlR0cFLdg-9a8kFIlp9mGOYpwjem&uniplatform=NZKPT&language=CHS)
 
 # Requirements
 - python = 3.8
